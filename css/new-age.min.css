@@ -421,11 +421,9 @@ img.grayscale:hover {
     margin:50px auto 100px
 }
 img.aimage{
-    max-width: 50%;
-    max-height: 50%;
+    height:250px;
 }.bimage{
-    max-width: 50%;
-    max-height: 50%;
+    height:250px;
 }.cimage{
     height:450px;
 }
